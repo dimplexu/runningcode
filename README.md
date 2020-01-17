@@ -13,3 +13,8 @@
 <div align="center">
     <img width="40%" src="https://wx1.sinaimg.cn/mw690/62b02411ly1gazc0e23dxj20p00dw3zo.jpg" alt="公众号二维码">
 </div>
+
+## 目录说明
+
+- Translation：每周英语翻译练习资料
+- HomeWork：所有星球的作业都提交在这个目录下，每个人创建属于自己的独立目录
