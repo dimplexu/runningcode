@@ -20,5 +20,5 @@
 - HomeWork：所有星球的作业都提交在这个目录下，每个人创建属于自己的独立目录
 
 <div align="center">
-    <img width="40%" src="https://wx3.sinaimg.cn/small/62b02411ly1gazdpspz3tj20j60pu125.jpg" alt="知识星球二维码">
+    <img width="80%" src="https://wx3.sinaimg.cn/small/62b02411ly1gazdpspz3tj20j60pu125.jpg" alt="知识星球二维码">
 </div>
