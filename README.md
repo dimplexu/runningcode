@@ -2,18 +2,21 @@
 
 我们的矩阵公众号：**程序员小跃**
 
-简介：专注于IT开发，和你聊聊职场话题，侃侃球，在休闲和知识的海洋里遨游
+![](https://xiaojiuwodimple.oss-cn-hangzhou.aliyuncs.com/%E5%A4%B4%E5%83%8F/2020%E5%BA%95%E9%83%A8%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.gif)
+
+添加程序员小跃为好友，和优秀的你一起进步
+![](https://xiaojiuwodimple.oss-cn-hangzhou.aliyuncs.com/%E5%A4%B4%E5%83%8F/%E4%B8%AA%E4%BA%BA%E5%90%8D%E7%89%87.jpg)
+
+简介：前Android开发，现某游戏公司Java后端架构。专注于以 Java 为中心扩展的校招、职场、编程进阶
 
 社群Slogan：社群是小家，成长靠大家；人人共参与，携手图共赢
 
 个人Slogan：当你的才华还无法撑起你的野心时候，那应该静下心来好好学习
 
-汇聚Java、Python等优秀练习以及优秀内容
-
-
 
 ## 目录说明
 
 - Translation：每周英语翻译练习资料
-- HomeWork：所有星球的作业都提交在这个目录下，每个人创建属于自己的独立目录
+- HomeWork：星球的作业都提交在这个目录下
+
 
