@@ -11,11 +11,11 @@
 
 - translation：每周英语翻译练习资料
 - homeWork：星球的作业都提交在这个目录下
-- [design-patterns：设计模式]()
+- [design-patterns：设计模式](#设计模式)
 
 #### 设计模式
 
-[如果让我重读大学，我一定选修设计模式]()
+[如果让我重读大学，我一定选修设计模式](https://github.com/dimplexu/runningcode/blob/master/design-patterns/docs/%E5%A6%82%E6%9E%9C%E8%AE%A9%E6%88%91%E9%87%8D%E8%AF%BB%E5%A4%A7%E5%AD%A6%EF%BC%8C%E6%88%91%E4%B8%80%E5%AE%9A%E9%80%89%E4%BF%AE%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 
 <p align="center">
